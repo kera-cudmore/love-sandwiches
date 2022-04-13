@@ -1,108 +1,108 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Love Sandwiches
 
-Welcome Kera Cudmore,
+Love Sandwiches was created as part of a walkthough project on the Code Institutes Level 5 Diploma in Web Application Development.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/love-sandwiches?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/love-sandwiches?color=yellow&style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/kera-cudmore/love-sandwiches?color=orange&style=for-the-badge)![GitHub top language](https://img.shields.io/github/languages/top/kera-cudmore/love-sandwiches?style=for-the-badge)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+## CONTENTS
 
-## Gitpod Reminders
+* [User Experience](#User-Experience)
+  * [User Stories](#User-Stories)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+* [Design](#Design)
+  * [Features](#Features)
 
-`python3 -m http.server`
+* [Technologies Used](#Technologies-Used)
+  * [Languages Used](#Languages-Used)
+  * [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
 
-A blue button should appear to click: _Make Public_,
+* [Deployment & Local Development](#Deployment-&-Local-Development)
+  * [Deployment](#Deployment)
+  * [Local Development](#Local-Development)
+    * [How to Fork](#How-to-Fork)
+    * [How to Clone](#How-to-Clone)
 
-Another blue button should appear to click: _Open Browser_.
+* [Testing](#Testing)
+  
+* [Credits](#Credits)
+  * [Code Used](#Code-Used)
+  * [Content](#Content)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- - -
 
-A blue button should appear to click: _Make Public_,
+## User Experience
 
-Another blue button should appear to click: _Open Browser_.
+### User Stories
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+#### First Time Visitor Goals
 
-To log into the Heroku toolbelt CLI:
+#### Returning Visitor Goals
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+#### Frequent Visitor Goals
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+- - -
 
-------
+## Design
 
-## Release History
+### Features
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+* Future Implementations.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+- - -
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+## Technologies Used
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+### Languages Used
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+Python3
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+### Frameworks, Libraries & Programs Used
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+Git - For version control.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+Github - To save and store the files for the website.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+[Shields.io](https://shields.io/) To add badges to the README
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+- - -
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Deployment & Local Development
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### Deployment
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+### Local Development
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+#### How to Fork
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+To fork the repository:
 
-------
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [Love Sandwiches Repo](https://github.com/kera-cudmore/love-sandwiches).
+3. Click the Fork button in the top right corner.
 
-## FAQ about the uptime script
+#### How to Clone
 
-**Why have you added this script?**
+To clone the repository:
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [Love Sandwiches Repo](https://github.com/kera-cudmore/love-sandwiches).
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
 
-**How will this affect me?**
+- - -
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+## Testing
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+- - -
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+## Credits
 
-**So….?**
+### Code Used
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+### Content
 
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+* The Love Sandwiches google sheet was provided by the Code Institute.
+* Google API's
