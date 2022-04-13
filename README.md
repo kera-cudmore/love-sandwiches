@@ -4,7 +4,8 @@ Love Sandwiches was created as part of a walkthough project on the Code Institut
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/love-sandwiches?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/love-sandwiches?color=yellow&style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/kera-cudmore/love-sandwiches?color=orange&style=for-the-badge)![GitHub top language](https://img.shields.io/github/languages/top/kera-cudmore/love-sandwiches?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/kera-cudmore/love-sandwiches?color=orange&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/kera-cudmore/love-sandwiches?style=for-the-badge)
 
 ## CONTENTS
 
