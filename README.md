@@ -42,6 +42,10 @@ Love Sandwiches was created as part of a walkthough project on the Code Institut
 
 #### Frequent Visitor Goals
 
+Logic Flow Chart
+
+![Love Sandwiches Logic Flow Chart](documentation/love-sandwiches-logic-flow-chart.png)
+
 - - -
 
 ## Design
@@ -65,6 +69,10 @@ Git - For version control.
 Github - To save and store the files for the website.
 
 [Shields.io](https://shields.io/) To add badges to the README
+
+[Lucid.app](https://lucid.app/) To create the logic flow diagram
+
+[Tiny PNG](https://tinypng.com/) To compress images
 
 - - -
 
