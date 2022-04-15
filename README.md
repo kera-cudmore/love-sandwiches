@@ -9,51 +9,28 @@ Love Sandwiches was created as part of a walkthough project on the Code Institut
 
 ## CONTENTS
 
-* [User Experience](#User-Experience)
-  * [User Stories](#User-Stories)
-
-* [Design](#Design)
-  * [Features](#Features)
-
+* [User Stories](#User-Stories)
+* [Logic Flow Chart](#Logic-Flow-Chart)
 * [Technologies Used](#Technologies-Used)
   * [Languages Used](#Languages-Used)
   * [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
-
-* [Deployment & Local Development](#Deployment-&-Local-Development)
-  * [Deployment](#Deployment)
-  * [Local Development](#Local-Development)
+* [Local Development](#Local-Development)
     * [How to Fork](#How-to-Fork)
     * [How to Clone](#How-to-Clone)
-
 * [Testing](#Testing)
-  
 * [Credits](#Credits)
-  * [Code Used](#Code-Used)
-  * [Content](#Content)
 
 - - -
 
-## User Experience
+## User Stories
 
-### User Stories
+This project was created for a sandwich shop to be able to work out how many sandwiches to create for their next market based on their sales and surplus data from their previous markets.
 
-#### First Time Visitor Goals
+- - -
 
-#### Returning Visitor Goals
-
-#### Frequent Visitor Goals
-
-Logic Flow Chart
+## Logic Flow Chart
 
 ![Love Sandwiches Logic Flow Chart](documentation/love-sandwiches-logic-flow-chart.png)
-
-- - -
-
-## Design
-
-### Features
-
-* Future Implementations.
 
 - - -
 
@@ -61,27 +38,25 @@ Logic Flow Chart
 
 ### Languages Used
 
-Python3
+* Python3
 
 ### Frameworks, Libraries & Programs Used
 
-Git - For version control.
+* Git - For version control.
 
-Github - To save and store the files for the website.
+* Github - To save and store the files for the website.
 
-[Shields.io](https://shields.io/) To add badges to the README
+* [Shields.io](https://shields.io/) To add badges to the README.
 
-[Lucid.app](https://lucid.app/) To create the logic flow diagram
+* [Lucid.app](https://lucid.app/) To create the logic flow diagram.
 
-[Tiny PNG](https://tinypng.com/) To compress images
+* [Tiny PNG](https://tinypng.com/) To compress images used in the readme.
+
+* Google API's were used to enable me to access and update the Google Sheets.
 
 - - -
 
-## Deployment & Local Development
-
-### Deployment
-
-### Local Development
+## Local Development
 
 #### How to Fork
 
@@ -105,13 +80,9 @@ To clone the repository:
 
 ## Testing
 
+Testing was carried out throughout the build of the project by utilising print statements to ensure the project was running as envisioned.
 - - -
 
 ## Credits
 
-### Code Used
-
-### Content
-
-* The Love Sandwiches google sheet was provided by the Code Institute.
-* Google API's
+* The Love Sandwiches Google Sheet was provided by the Code Institute.
