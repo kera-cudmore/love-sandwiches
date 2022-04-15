@@ -81,6 +81,10 @@ To clone the repository:
 ## Testing
 
 Testing was carried out throughout the build of the project by utilising print statements to ensure the project was running as envisioned.
+
+The code was also run through [PEP8](www.pep8online.com) a python code validator.
+
+![PEP8 testing for run.py file](documentation/pep8-testing.jpg)
 - - -
 
 ## Credits
