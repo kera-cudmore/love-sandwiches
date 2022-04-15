@@ -110,7 +110,7 @@ def calculate_stock_data(data):
     """
     print("Calculating stock data...\n")
     new_stock_data = []
-    
+
     for column in data:
         int_column = [int(num) for num in column]
         average = sum(int_column) / len(int_column)
@@ -120,16 +120,15 @@ def calculate_stock_data(data):
     return new_stock_data
 
 
-
 def get_stock_values(data):
     """
     Get the values (sandwich names) from the stock worksheet
     """
     headings = SHEET.worksheet("stock").row_values(1)
-    
+
     dictionary = dict(zip(headings, data))
     return dictionary
-    
+
 
 def main():
     """
@@ -145,6 +144,6 @@ def main():
     update_worksheet(stock_data, "stock")
     get_stock_values(data)
 
-    
+
 print("Welcome to Love Sandwiches Data Automation")
 main()
