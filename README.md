@@ -1,3 +1,5 @@
+![Love Sandwiches Banner Image](documentation/love-sandwiches-banner.png)
+
 # Love Sandwiches
 
 Love Sandwiches was created as part of a walkthough project on the Code Institutes Level 5 Diploma in Web Application Development.
