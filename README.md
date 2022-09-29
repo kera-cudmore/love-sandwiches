@@ -11,16 +11,16 @@ Love Sandwiches was created as part of a walkthough project on the Code Institut
 
 ## CONTENTS
 
-* [User Stories](#User-Stories)
-* [Logic Flow Chart](#Logic-Flow-Chart)
-* [Technologies Used](#Technologies-Used)
-  * [Languages Used](#Languages-Used)
-  * [Frameworks, Libraries & Programs Used](#Frameworks,-Libraries-&-Programs-Used)
-* [Local Development](#Local-Development)
-    * [How to Fork](#How-to-Fork)
-    * [How to Clone](#How-to-Clone)
-* [Testing](#Testing)
-* [Credits](#Credits)
+* [User Stories](#user-stories)
+* [Logic Flow Chart](#logic-flow-chart)
+* [Technologies Used](#technologies-used)
+  * [Languages Used](#languages-used)
+  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+* [Local Development](#local-development)
+    * [How to Fork](#how-to-fork)
+    * [How to Clone](#how-to-clone)
+* [Testing](#testing)
+* [Credits](#credits)
 
 - - -
 
@@ -44,9 +44,9 @@ This project was created for a sandwich shop to be able to work out how many san
 
 ### Frameworks, Libraries & Programs Used
 
-* Git - For version control.
+* [Git](https://git-scm.com/) - For version control.
 
-* Github - To save and store the files for the website.
+* [Github](https://github.com/) - To save and store the files for the website.
 
 * [Shields.io](https://shields.io/) To add badges to the README.
 
@@ -54,7 +54,7 @@ This project was created for a sandwich shop to be able to work out how many san
 
 * [Tiny PNG](https://tinypng.com/) To compress images used in the readme.
 
-* Google API's were used to enable me to access and update the Google Sheets.
+* [Google API's](https://developers.google.com/sheets/api) were used to enable me to access and update the Google Sheets.
 
 - - -
 
